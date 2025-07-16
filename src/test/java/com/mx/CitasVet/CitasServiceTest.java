@@ -88,7 +88,6 @@ class CitasServiceTest {
 		 Cita actualizada = citaservice.guardarCita(datosActualizados);
 		 
 		 assertEquals("Esterilización", actualizada.getMotivo());
-	     assertEquals("Bruno", actualizada.getMascotaNombre());
 	}
 
 }

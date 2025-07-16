@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mx.CitasVet.CitasVetApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.016 s -- in com.mx.CitasVet.CitasVetApplicationTests
